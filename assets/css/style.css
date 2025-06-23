@@ -155,8 +155,8 @@ body {
 #hero .mouse {
     position: absolute;
     left: 50%;
-    bottom: 120px;
-    /* transform: translateX(-50%); */
+    bottom: 60px;
+    transform: translateX(-50%);
 }
 
 /* ================ HERO END ================ */
